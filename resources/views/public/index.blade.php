@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Sassly HTML5 Template">
 
-  <title>Sassly Online Meeting</title>
+  <title>Sui Dhaga</title>
 
   <!-- Fav Icon -->
   <link rel="icon" type="image/x-icon" href="https://crowdytheme.com/html/assets/imgs/logo/favicon.webp">
